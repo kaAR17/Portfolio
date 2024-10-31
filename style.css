@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "young serif", serif;
+
+}
+.content{
+    padding: 30px;
+
+}
+.one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+.one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 4px;
+}
+.three{
+    background-color: orange;
+    color:black;
+    padding: 25px;
+    width: fit-content;
+    
+     border-radius: 10px;
+    vertical-align: top;
+    }
+.three,.four{
+    display: inline-block;
+
+}    
+.two,.three,.four,.five{
+    margin-top: 20px;
+}
+.two__desc,.three__desc,.four__desc,.five__desc{
+    margin-top: 10px;
+}
+
+.three__desc ,.four__desc li{
+    list-style: none;}
+    .five{
+        background-color: black;
+        color: blanchedalmond;
+    }
+.four
+{background-color: blueviolet;
+    color:white;
+    padding: 10px;
+    
+    border-radius: 10px;
+    vertical-align: top;
+ 
+}
+.fo{
+    margin-top: 20px;
+} 
+.fo__input,.fo__input,.fo__textarea{
+    margin top:10px;
+
+}
+.fo__input{
+    padding: 10px;
+    border:none;
+    border-bottom: solid black 1px;
+} 
+.fo__textarea{
+    padding: 10px;
+    margin-top: 10px;
+    border: solid black ;
+} 
+.fo__submit{
+    background-color: red;
+    color:white;
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
